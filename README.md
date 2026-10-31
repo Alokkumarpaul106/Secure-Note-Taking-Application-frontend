@@ -7,8 +7,8 @@ REST API + basic frontend with JWT authentication and role-based access control 
 | | URL |
 |---|-----|
 | **Live App** | https://secure-note-taking-application-fron.vercel.app/ |
-| **Backend (GitHub)** | https://github.com/Sou963/Secure-Note-Taking-Application |
-| **Frontend (GitHub)** | https://github.com/Sou963/Secure-Note-Taking-Application-frontend |
+| **Backend (GitHub)** | https://github.com/Alokkumarpaul106/Secure-Note-Taking-Application |
+| **Frontend (GitHub)** | https://github.com/Alokkumarpaul106/Secure-Note-Taking-Application-frontend |
 | **API Health** | https://secure-note-taking-application.vercel.app/api/health |
 
 ## Stack
@@ -93,7 +93,7 @@ const API = "https://secure-note-taking-application.vercel.app/api";
 ### Backend
 
 1. Repository:  
-   https://github.com/Sou963/Secure-Note-Taking-Application
+   https://github.com/Alokkumarpaul106/Secure-Note-Taking-Application
 
 2. Set the Vercel project root to the backend folder containing `vercel.json` and `api/index.js`.
 
@@ -109,7 +109,7 @@ CLIENT_URL=https://secure-note-taking-application-fron.vercel.app
 ### Frontend
 
 1. Repository:  
-   https://github.com/Sou963/Secure-Note-Taking-Application-frontend
+   https://github.com/Alokkumarpaul106/Secure-Note-Taking-Application-frontend
 
 2. Deploy it as a static site on Vercel.
 
@@ -246,3 +246,5 @@ Everything a User can do, plus:
 |---|---|---|
 | Admin | `admin@example.com` | `admin123` |
 | User | `user@example.com` | `user123` |
+
+Developed by Alok kumar paul
